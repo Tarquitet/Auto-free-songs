@@ -1,5 +1,7 @@
 # Auto-free-songs
 
+![1778081084056](images/README/1778081084056.png)
+
 ## Descripción / Description
 
 Este repositorio contiene scripts en Python para descargar canciones usando enlaces de canales de YouTube y leer playlists de Spotify convertidas a CSV. El objetivo es automatizar la descarga de música libre de derechos o contenido que ya poseas y para el cual tengas permiso.
