@@ -1,1 +1,17 @@
-/REPOSITORIO_MUSICA
+# --- CARPETAS DE SALIDA (Música y Fichas) ---
+/REPOSITORIO_MUSICA/
+
+# --- ARCHIVOS DE ESTADO Y LOGS ---
+descargados.txt
+auditoria_total.txt
+REPORTE_AUDITORIA.txt
+
+# --- ENTRADAS PERSONALES ---
+# (! -> NO) Ignora tus listas para que no se suban tus links privados a GitHub
+!que_busco.txt
+!black_list.txt
+
+# --- PYTHON BÁSICO ---
+__pycache__/
+*.py[cod]
+.venv/
