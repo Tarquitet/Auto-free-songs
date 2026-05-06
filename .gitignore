@@ -11,10 +11,6 @@ REPORTE_AUDITORIA.txt
 !que_busco.txt
 !black_list.txt
 
-# Permitir subir la carpeta de créditos / Varios dentro del repositorio de música
-!/REPOSITORIO_MUSICA/Varios/
-!/REPOSITORIO_MUSICA/Varios/**
-
 # --- PYTHON BÁSICO ---
 __pycache__/
 *.py[cod]
